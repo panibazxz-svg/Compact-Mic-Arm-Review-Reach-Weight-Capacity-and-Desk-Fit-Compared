@@ -1,2 +1,6 @@
-# Compact-Mic-Arm-Review-Reach-Weight-Capacity-and-Desk-Fit-Compared
+# [Compact-Mic-Arm-Review-Reach-Weight-Capacity-and-Desk-Fit-Compared](https://benchmarksetups.com/compact-mic-arm-review/)
 Compact Mic Arm Review: Reach, Weight Capacity, and Desk Fit Compared
+Your compact mic arm’s clamp is eating the last two inches of desk depth you had left, or the boom won’t reach far enough to get the mic where you sit. Listings rarely give you the numbers that settle this, so we compared four mic arms on reach, weight capacity, desk clamp opening, and cable management. Short answer: match the arm’s rated weight to your microphone first, then check that the clamp opens wide enough for your desk.
+
+What We Compared and Why Weight Capacity Matters More Than Boom Reach
+Most compact mic arm listings lead with maximum boom reach, which says how far the microphone can extend but not whether the arm can hold your microphone steady. Two numbers on a spec sheet are easy to mix up: the clamp opening is the maximum desk thickness the clamp can grip, and the clamp footprint is the space it occupies on your desk edge. Listings usually give the first and not the second. We compared published reach, weight capacity, clamp opening, and cable management for four arms. We haven’t measured clamp footprint ourselves yet, so measure it against your own desk before you buy.
